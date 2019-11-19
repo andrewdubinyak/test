@@ -40,7 +40,13 @@ INSTALLED_APPS = [
     'django.contrib.admin',
     'order.apps.OrderConfig',
     'payment.apps.PaymentConfig',
+    'rest_framework',
 ]
+REST_FRAMEWORK = {
+    'DEFAULT_PREMISSION_CLASSES':[
+        'rest_framework.premissions.DjangoModelPremissionsOrAnonReadOnly'
+    ]
+}
 
 MIDDLEWARE = [
     'django.middleware.security.SecurityMiddleware',
