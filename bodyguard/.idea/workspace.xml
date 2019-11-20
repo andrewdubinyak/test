@@ -2,15 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cc9f417c-56d1-472f-8562-c8a9b4254967" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/order/api/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/order/api/serializer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/order/api/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/order/api/views.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/account/migrations/0001_initial.py" beforeDir="false" afterPath="$PROJECT_DIR$/account/migrations/0001_initial.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bodyguard/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/bodyguard/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bodyguard/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/bodyguard/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/order/migrations/0001_initial.py" beforeDir="false" afterPath="$PROJECT_DIR$/order/migrations/0001_initial.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/order/migrations/0002_auto_20191118_1314.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/order/migrations/0003_auto_20191118_1334.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/order/migrations/0004_auto_20191118_1425.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/order/migrations/0005_listorderprice_paid.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/order/migrations/0006_listorderprice_braintree_id.py" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
